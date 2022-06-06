@@ -7,7 +7,7 @@ bioniclinelst = list()
 #lst2 = list()
 newbioniclinelst = list() #target
 
-lst3 = list()
+#lst3 = list()
 
 
 filename = input('Where is your subtitle file (with .txt extension!) located? ')
