@@ -4,7 +4,7 @@ import pysubs2
 lst = list() #src
 # List of bionic lines
 bioniclinelst = list()
-lst2 = list()
+#lst2 = list()
 newbioniclinelst = list() #target
 
 lst3 = list()
